@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="alfbot" src ="https://drive.google.com/file/d/1WMA2h-EQPqm17ko8ul6fmogeXpe-Oohd/view?usp=drivesdk" width="320">
+    <img alt="alfbot" src ="https://gist.github.com/vinkla/dca76249ba6b73c5dd66a4e986df4c8d#gistcomment-3555637" width="320">
     <h3> BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX </h3>
 # 
     VARGAS250 BOT
