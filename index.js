@@ -19,7 +19,7 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    BotName: 'VARGAS250 BOT',
+    BotName: 'VARGAS250xBOT',
     instagram: 'https://www.instagram.com/vargas_250/',
     whatsapp: 'wa.me/6281227560249',
     kapanbotaktif: '24 JAM',
